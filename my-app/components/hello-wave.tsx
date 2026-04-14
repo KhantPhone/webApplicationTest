@@ -13,7 +13,7 @@ export function HelloWave() {
         animationIterationCount: 4,
         animationDuration: '300ms',
       }}>
-      👋just changed a bit
+      👋just changed a bit without being a contributor
     </Animated.Text>
   );
 }
