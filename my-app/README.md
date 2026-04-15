@@ -1,5 +1,6 @@
 # KHANT PHONE changed from khant by another github account
 #EGUCHIです。。
+#changed from eguchi pc from kanto.
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
